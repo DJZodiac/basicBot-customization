@@ -53,14 +53,14 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "basicBot",
+        botName: "IFeelFreeBot",
         language: "english",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
         startupCap: 1, // 1-200
-        startupVolume: 0, // 0-100
-        startupEmoji: false, // true or false
+        startupVolume: 20, // 0-100
+        startupEmoji: true, // true or false
         maximumAfk: 120,
-        afkRemoval: true,
+        afkRemoval: false,
         maximumDc: 60,
         bouncerPlus: true,
         lockdownEnabled: false,
@@ -69,7 +69,7 @@
         cycleGuard: true,
         maximumCycletime: 10,
         timeGuard: true,
-        maximumSongLength: 10,
+        maximumSongLength: 6,
         autodisable: true,
         commandCooldown: 30,
         usercommandsEnabled: true,
@@ -87,17 +87,17 @@
         afkRankCheck: "ambassador",
         motdEnabled: false,
         motdInterval: 5,
-        motd: "Temporary Message of the Day",
+        motd: "Welcome to I Feel Free. Please take the time to read information about this room. http://tinyurl.com/IFeelFreeInfo",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
-        opLink: null,
-        rulesLink: null,
+        opLink: "http://tinyurl.com/IFeelFreeInfo",
+        rulesLink: "http://tinyurl.com/IFeelFreeInfo",
         themeLink: null,
         fbLink: null,
         youtubeLink: null,
-        website: null,
-        intervalMessages: [],
+        website: "http://tinyurl.com/IFeelFreeInfo",
+        intervalMessages: ["Please remember to follow the rules found here: http://tinyurl.com/IFeelFreeInfo", "I hope you are enjoying your stay!", "Feel free to ask any of our staff if you have questions"],
         messageInterval: 5,
         songstats: true,
         commandLiteral: "!",
