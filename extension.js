@@ -56,7 +56,7 @@
         botName: "IFeelFreeBot",
         language: "english",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
-        startupCap: 1, // 1-200
+        startupCap: 100, // 1-200
         startupVolume: 20, // 0-100
         startupEmoji: true, // true or false
         maximumAfk: 120,
