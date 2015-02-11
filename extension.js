@@ -85,7 +85,7 @@
         ],
         afkpositionCheck: 15,
         afkRankCheck: "ambassador",
-        motdEnabled: true,
+        motdEnabled: false,
         motdInterval: 5,
         motd: "[[INFO]] We currently have staff positions available please apply here: https://zodiac.typeform.com/to/ZFLTAz",
         filterChat: true,
