@@ -97,7 +97,7 @@
         fbLink: null,
         youtubeLink: null,
         website: "http://tinyurl.com/IFeelFreeInfo",
-        intervalMessages: ["Please remember to follow the rules found here: http://tinyurl.com/IFeelFreeInfo", "I hope you are enjoying your stay!", "Feel free to ask any of our staff if you have questions"],
+        intervalMessages: ["Please remember to follow the rules found here: http://tinyurl.com/IFeelFreeInfo", "I hope you are enjoying your stay!", "Feel free to ask any of our staff if you have questions","We currently have staff positions available please apply here: https://zodiac.typeform.com/to/ZFLTAz"],
         messageInterval: 5,
         songstats: true,
         commandLiteral: "!",
