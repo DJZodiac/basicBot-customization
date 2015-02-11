@@ -97,8 +97,8 @@
         fbLink: null,
         youtubeLink: null,
         website: "http://tinyurl.com/IFeelFreeRoomInfo",
-        intervalMessages: ["[[INFO] Please remember to follow the room rules here: http://tinyurl.com/IFeelFreeRoomInfo"],
-        messageInterval: 3,
+        intervalMessages: ["[[INFO]] Welcome to I Feel Free", "[[INFO] Please remember to follow the room rules here: http://tinyurl.com/IFeelFreeRoomInfo","[[INFO]] Please feel free to ask the staff any questions you may have", "[[Staff APP]] We are currently accepting new staff! Please apply here https://zodiac.typeform.com/to/ZFLTAz"],
+        messageInterval: 5,
         songstats: true,
         commandLiteral: "!",
         blacklists: {
