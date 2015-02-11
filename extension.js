@@ -55,7 +55,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
         botName: "IFeelFreeBot",
         language: "english",
-        chatLink: "https://rawgit.com/DJZodiac/basicBot/master/lang/en.json",
+        chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
         startupCap: 10, // 1-200
         startupVolume: 20, // 0-100
         startupEmoji: true, // true or false
@@ -108,6 +108,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript('https://rawgit.com/DJZodiac/basicBot/master/basicBot.js', extend);
+    $.getScript('https://rawgit.com/Yemasthui/basicBot/master/basicBot.js', extend);
 
 }).call(this);
