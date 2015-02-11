@@ -14,10 +14,10 @@
         bot.retrieveSettings();
 
         /*
-         Extend the bot here, either by calling another function or here directly.
-         Model code for a bot command:
+        |Extend the bot here, either by calling another function or here directly.
+        |Model code for a bot command:
 
-         bot.commands.commandCommand = {
+        |bot.commands.commandCommand = {
          command: 'cmd',
          rank: 'user/bouncer/mod/manager',
          type: 'startsWith/exact',
@@ -86,7 +86,7 @@
         afkpositionCheck: 15,
         afkRankCheck: "ambassador",
         motdEnabled: true,
-        motdInterval: 7,
+        motdInterval: 5,
         motd: "[[INFO]] We currently have staff positions available please apply here: https://zodiac.typeform.com/to/ZFLTAz",
         filterChat: true,
         etaRestriction: false,
