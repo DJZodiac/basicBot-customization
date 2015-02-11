@@ -97,7 +97,7 @@
         fbLink: null,
         youtubeLink: null,
         website: "http://tinyurl.com/IFeelFreeRoomInfo",
-        intervalMessages: ["[[INFO]] Please remember to follow the rules found here: http://tinyurl.com/IFeelFreeInfo", "[[INFO]] I hope you are enjoying your stay!", "[[INFO]] Feel free to ask any of our staff if you have questions"],
+        intervalMessages: ["[[INFO] Please remember to follow the room rules here: http://tinyurl.com/IFeelFreeRoomInfo"],
         messageInterval: 3,
         songstats: true,
         commandLiteral: "!",
