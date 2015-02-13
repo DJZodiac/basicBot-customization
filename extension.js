@@ -57,7 +57,7 @@
         language: "english",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
         startupCap: 10, // 1-200
-        startupVolume: 20, // 0-100
+        startupVolume: 0, // 0-100
         startupEmoji: true, // true or false
         maximumAfk: 120,
         afkRemoval: false,
@@ -69,7 +69,7 @@
         cycleGuard: false,
         maximumCycletime: 10,
         timeGuard: true,
-        maximumSongLength: 6,
+        maximumSongLength: 7,
         autodisable: false,
         commandCooldown: 30,
         usercommandsEnabled: true,
@@ -84,7 +84,7 @@
             ["unavailable", "The song you played was not available for some users. "]
         ],
         afkpositionCheck: 15,
-        afkRankCheck: "ambassador",
+        afkRankCheck: "residentdj",
         motdEnabled: false,
         motdInterval: 5,
         motd: "[[INFO]] We currently have staff positions available please apply here: https://zodiac.typeform.com/to/ZFLTAz",
