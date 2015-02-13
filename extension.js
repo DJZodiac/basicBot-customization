@@ -87,7 +87,7 @@
         afkRankCheck: "residentdj",
         motdEnabled: false,
         motdInterval: 5,
-        motd: "[[INFO]] We currently have staff positions available please apply here: https://zodiac.typeform.com/to/ZFLTAz",
+        motd: null,
         filterChat: true,
         etaRestriction: false,
         welcome: true,
